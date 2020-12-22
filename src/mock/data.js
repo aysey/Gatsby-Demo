@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphOne: '•	Skilled Developer & Analyst with exceptional technical capabilities and five years of practical experience in software development, digital transformation projects for both Start-Ups and large corporations with well versed in all stages of the software engineering lifecycle backed up by a degree in Engineering.',
+  paragraphTwo: '•	Strong and highly analytical mindset; Expert level knowledge of data science and statistical modelling in Marketing, Sales and Financial Technology fields.',
+  paragraphThree: '•	Seamlessly integrates into Agile environments; collaborates with expert stakeholders across the business to evaluate and define requirements that significantly improve business processes. ',
+  resume: 'https://www.linkedin.com/in/ayseyildizhan/', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
