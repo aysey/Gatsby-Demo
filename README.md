@@ -2,10 +2,6 @@
 
 ## A clean, beautiful and responsive portfolio template for Developers
 
-<h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Gatsby Simplefolio" width="600px" />
-  <br>
-</h2>
 
 ## Features
 
@@ -18,8 +14,6 @@
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-To view a demo example, **[click here](https://gatsby-simplefolio.netlify.com/)**\
-To view a live example, **[click here](https://cobidev.com/)**
 
 ---
 
@@ -237,9 +231,6 @@ Once you have done with your setup. You need to put your website online!
 I highly recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST WAY
 
 ## Others versions 👥
-
-[Simplefolio](https://github.com/cobidev/simplefolio) by [Jacobo Martinez](https://github.com/cobidev)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
 
 ## Technologies used 🛠️
 
