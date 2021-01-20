@@ -28,30 +28,31 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'mynotebook.jpg',
+    title: 'MY Notebook',
+    info: 'Developed with React; JavaScript; Node; MongoDB ',
+    info2: '',
+
+    url: '',
+    repo: 'https://github.com/aysey/My-Notebook', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'powerbi.jpg',
+    title: 'PowerBI Dashboard',
+    info: 'Streaming Real Time Dashboards with API configurations. Used Azure; SQL; Rest API; Office 365',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/aysey/PowerBI-Streaming-Real-Time-Dashboard', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
+    title: 'MS SQL ',
+    info: 'Created databases with efficient structures; Wrote optimized queries, views and triggers for integration with other applications; Maintain high standards of data quality and integrity.',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/aysey/List-of-SQL-Commands', // if no repo, the button will not show up
   },
 ];
 
